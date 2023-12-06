@@ -1,5 +1,5 @@
 ### Hi there 👋
- I’m currently learning frontend and I care about learning about new technologies and solutions!
+ I'm learning programming, and I've fallen in love with elixir
 <!--
 **isabelceer/isabelceer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
